@@ -1,6 +1,7 @@
 # allocate-seats
 
 Reservation System
+
 In a reservation system, an algorithm is utilized to prioritize the seat allocation to people. This allocation process starts with collect the applications from each candidate for the seat. Each application should capture Name, Age, and Gender. After collecting all the applications, below prioritization rules will be applied.
 
 The reservation system has 2 compartments.
